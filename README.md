@@ -1,2 +1,2 @@
-# Deep Dive into SAST with Semgrep
+# Deep Dive into SAST and Semgrep
 SAST with Semgrep - Seasides Conference 2025
